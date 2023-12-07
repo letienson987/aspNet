@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmApp.WebServiceAPI", "FilmApp.WebServiceAPI\FilmApp.WebServiceAPI.csproj", "{2DAD70CF-F73C-480A-BCE9-1194614C503C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmApp.WebServiceCore", "FilmApp.WebServiceCore\FilmApp.WebServiceCore.csproj", "{1DD8BDAE-DFC8-4B23-A029-6D244B65B517}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmApp.WebServiceModels", "FilmApp.WebServiceModels\FilmApp.WebServiceModels.csproj", "{E3EEBE6C-B3E5-4630-816E-DDCFB5008A1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DAD70CF-F73C-480A-BCE9-1194614C503C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DAD70CF-F73C-480A-BCE9-1194614C503C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DAD70CF-F73C-480A-BCE9-1194614C503C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DAD70CF-F73C-480A-BCE9-1194614C503C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DD8BDAE-DFC8-4B23-A029-6D244B65B517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DD8BDAE-DFC8-4B23-A029-6D244B65B517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DD8BDAE-DFC8-4B23-A029-6D244B65B517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DD8BDAE-DFC8-4B23-A029-6D244B65B517}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3EEBE6C-B3E5-4630-816E-DDCFB5008A1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3EEBE6C-B3E5-4630-816E-DDCFB5008A1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3EEBE6C-B3E5-4630-816E-DDCFB5008A1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3EEBE6C-B3E5-4630-816E-DDCFB5008A1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

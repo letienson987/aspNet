@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{2DAD70CF-F73C-480A-BCE9-1194614C503C}|https">
+  <MonoDevelop.Ide.ItemProperties.FilmApp.WebServiceAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="FilmApp.WebServiceCore/Services/FilmsService.cs">
+    <Files>
+      <File FileName="FilmApp.WebServiceModels/ResponseModels/FilmsResponseModel.cs" />
+      <File FileName="FilmApp.WebServiceModels/RequestModels/FilmsRequestModel.cs" />
+      <File FileName="FilmApp.WebServiceCore/Services/FilmsService.cs" Line="47" Column="1" />
+      <File FileName="FilmApp.WebServiceCore/Entities/Films.cs" />
+      <File FileName="FilmApp.WebServiceCore/Mappers/FilmsMapper.cs" />
+      <File FileName="FilmApp.WebServiceCore/Services/CategoryService.cs" />
+      <File FileName="FilmApp.WebServiceCore/Infrastructure/Repositories/FilmsRepository.cs" />
+      <File FileName="FilmApp.WebServiceCore/Infrastructure/Repositories/CategoryRepository.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FilmApp.WebService" expanded="True">
+            <Node name="FilmApp.WebServiceAPI" expanded="True" />
+            <Node name="FilmApp.WebServiceCore" expanded="True">
+              <Node name="Services" expanded="True">
+                <Node name="FilmsService.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="FilmApp.WebServiceModels" expanded="True">
+              <Node name="ResponseModels" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

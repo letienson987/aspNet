@@ -1,0 +1,12 @@
+/Users/ThomasLee/Desktop/filmapp/backend/FilmAppService/FilmApp.WebServiceModels/bin/Debug/net7.0/FilmApp.WebServiceModels.deps.json
+/Users/ThomasLee/Desktop/filmapp/backend/FilmAppService/FilmApp.WebServiceModels/bin/Debug/net7.0/FilmApp.WebServiceModels.dll
+/Users/ThomasLee/Desktop/filmapp/backend/FilmAppService/FilmApp.WebServiceModels/bin/Debug/net7.0/FilmApp.WebServiceModels.pdb
+/Users/ThomasLee/Desktop/filmapp/backend/FilmAppService/FilmApp.WebServiceModels/obj/Debug/net7.0/FilmApp.WebServiceModels.csproj.AssemblyReference.cache
+/Users/ThomasLee/Desktop/filmapp/backend/FilmAppService/FilmApp.WebServiceModels/obj/Debug/net7.0/FilmApp.WebServiceModels.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ThomasLee/Desktop/filmapp/backend/FilmAppService/FilmApp.WebServiceModels/obj/Debug/net7.0/FilmApp.WebServiceModels.AssemblyInfoInputs.cache
+/Users/ThomasLee/Desktop/filmapp/backend/FilmAppService/FilmApp.WebServiceModels/obj/Debug/net7.0/FilmApp.WebServiceModels.AssemblyInfo.cs
+/Users/ThomasLee/Desktop/filmapp/backend/FilmAppService/FilmApp.WebServiceModels/obj/Debug/net7.0/FilmApp.WebServiceModels.csproj.CoreCompileInputs.cache
+/Users/ThomasLee/Desktop/filmapp/backend/FilmAppService/FilmApp.WebServiceModels/obj/Debug/net7.0/FilmApp.WebServiceModels.dll
+/Users/ThomasLee/Desktop/filmapp/backend/FilmAppService/FilmApp.WebServiceModels/obj/Debug/net7.0/refint/FilmApp.WebServiceModels.dll
+/Users/ThomasLee/Desktop/filmapp/backend/FilmAppService/FilmApp.WebServiceModels/obj/Debug/net7.0/FilmApp.WebServiceModels.pdb
+/Users/ThomasLee/Desktop/filmapp/backend/FilmAppService/FilmApp.WebServiceModels/obj/Debug/net7.0/ref/FilmApp.WebServiceModels.dll

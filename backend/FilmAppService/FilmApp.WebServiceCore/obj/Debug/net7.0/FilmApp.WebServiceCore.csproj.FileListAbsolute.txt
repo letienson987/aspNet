@@ -1,0 +1,17 @@
+/Users/ThomasLee/Desktop/filmapp/backend/FilmAppService/FilmApp.WebServiceCore/bin/Debug/net7.0/FilmApp.WebServiceCore.deps.json
+/Users/ThomasLee/Desktop/filmapp/backend/FilmAppService/FilmApp.WebServiceCore/bin/Debug/net7.0/FilmApp.WebServiceCore.runtimeconfig.json
+/Users/ThomasLee/Desktop/filmapp/backend/FilmAppService/FilmApp.WebServiceCore/bin/Debug/net7.0/FilmApp.WebServiceCore.dll
+/Users/ThomasLee/Desktop/filmapp/backend/FilmAppService/FilmApp.WebServiceCore/bin/Debug/net7.0/FilmApp.WebServiceCore.pdb
+/Users/ThomasLee/Desktop/filmapp/backend/FilmAppService/FilmApp.WebServiceCore/bin/Debug/net7.0/FilmApp.WebServiceModels.dll
+/Users/ThomasLee/Desktop/filmapp/backend/FilmAppService/FilmApp.WebServiceCore/bin/Debug/net7.0/FilmApp.WebServiceModels.pdb
+/Users/ThomasLee/Desktop/filmapp/backend/FilmAppService/FilmApp.WebServiceCore/obj/Debug/net7.0/FilmApp.WebServiceCore.csproj.AssemblyReference.cache
+/Users/ThomasLee/Desktop/filmapp/backend/FilmAppService/FilmApp.WebServiceCore/obj/Debug/net7.0/FilmApp.WebServiceCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ThomasLee/Desktop/filmapp/backend/FilmAppService/FilmApp.WebServiceCore/obj/Debug/net7.0/FilmApp.WebServiceCore.AssemblyInfoInputs.cache
+/Users/ThomasLee/Desktop/filmapp/backend/FilmAppService/FilmApp.WebServiceCore/obj/Debug/net7.0/FilmApp.WebServiceCore.AssemblyInfo.cs
+/Users/ThomasLee/Desktop/filmapp/backend/FilmAppService/FilmApp.WebServiceCore/obj/Debug/net7.0/FilmApp.WebServiceCore.csproj.CoreCompileInputs.cache
+/Users/ThomasLee/Desktop/filmapp/backend/FilmAppService/FilmApp.WebServiceCore/obj/Debug/net7.0/FilmApp.WebServiceCore.csproj.CopyComplete
+/Users/ThomasLee/Desktop/filmapp/backend/FilmAppService/FilmApp.WebServiceCore/obj/Debug/net7.0/FilmApp.WebServiceCore.dll
+/Users/ThomasLee/Desktop/filmapp/backend/FilmAppService/FilmApp.WebServiceCore/obj/Debug/net7.0/refint/FilmApp.WebServiceCore.dll
+/Users/ThomasLee/Desktop/filmapp/backend/FilmAppService/FilmApp.WebServiceCore/obj/Debug/net7.0/FilmApp.WebServiceCore.pdb
+/Users/ThomasLee/Desktop/filmapp/backend/FilmAppService/FilmApp.WebServiceCore/obj/Debug/net7.0/FilmApp.WebServiceCore.genruntimeconfig.cache
+/Users/ThomasLee/Desktop/filmapp/backend/FilmAppService/FilmApp.WebServiceCore/obj/Debug/net7.0/ref/FilmApp.WebServiceCore.dll
